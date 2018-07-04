@@ -1,0 +1,92 @@
+land page vendendo um curso de celular
+
+a proposta do site e vender um curso digital ebook
+
+
+a pagina ira ser pagina unica e ira conter algumas areas
+
+1- o curso
+
+manutençao e concerto de celular 
+aula de eletronica
+concerto ao vivo na pratica
+aula de software
+direito a certificado
+trabalha com todas as marcas do brasil
++ de 160 horas
++ de 50 hora de curso
+
+area explicando o mercado de trabalho e a demanda pela mao e obra desse tipo de profissional
+
+o que eu aprendo
+
+qual setor posso atuar no mercado de trabalho
+
+
+.sobrenosi:hover .icone i {
+    color: #ffffff;
+}
+.icone i {
+    color: #016cff;
+    line-height: 75px!important;
+    font-size: 2.18rem;
+}
+
+
+svg-inline--fa fa-camera-retro fa-w-16 fa-1x
+
+
+
+
+
+
+
+    <div class="titulosl">
+	<h3>testemunho</h3>
+	</div>
+	
+	<div class="fotosl">
+	
+	<img src="<?php echo get_template_directory_uri ()?>/img/6.jpg">
+</div>
+
+<div class="testemunhosl">
+<p>bla bla bla bla</p>
+</div>
+
+<div class="nome">
+<p>maria do rosario</p>
+</div>
+
+
+
+
+
+   <div class="col-md-6 col-lg-4 mt-5">
+                        <div class="pl-5 position-relative">
+                            <i class="fab fa-gg bg-base-color left-0 mt-1 p-3 position-absolute top-0 rounded text-white"></i>
+                            <div class="ml-3">
+                                <span class="d-block font-alt letter-spacing-2 title-medium text-uppercase"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sucesso </font></font></span>
+                                <p class="mt-1 text-large"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Escolha um ponto com grande fluxo de pedestres e veículos, de preferência com fácil estacionamento. Faça todo o planejamento da sua assistência técnica para celulares antes de iniciar na atividade..</font></font></p>
+                            </div>
+                            <!-- //.ml-3 -->
+                        </div>
+                        <!-- //.pl-5 -->
+                    </div>
+					
+					
+					
+					
+					sites de tecnologia gringos
+					
+					https://www.cnet.com/
+					https://www.theverge.com/google
+					http://joyofandroid.com/
+					https://www.gadgethacks.com/
+					http://innov8tiv.com/category/tech/
+					https://www.ifixit.com/Guide/Samsung+Galaxy+S+III+Broken+Front+Glass+Replacement/14856
+
+					
+					
+					
+					<p>De acordo com os últimos dados divulgados pela ANATEL, hoje no Brasil são mais de 280 milhões de celulares, é isso mesmo, tem mais celulares do que habitantes nesse nosso Brasil!! Mas o que é interessante também, é observar que a tendência natural é esse número aumentar ainda mais, por incrível que pareça,  com a popularização do celular que ganhou novas funções e se tornou um item comum e básico na vida da maioria das pessoas porque permite que você faça praticamente tudo que um computador faz, com a vantagem da mobilidade, ou seja, a qualquer hora e em qualquer lugar você pode editar textos, criar imagens, tirar fotos, acessar as redes sociais, ler livros, enfim, a lista de possibilidades é praticamente infindável tamanha velocidade de atualizações e aplicativos disponíveis no mercado. Se analisarmos somente esse aspecto, e excluindo qualquer outro tipo de influência no mercado, já é suficiente para dizer que o negócio de Conserto e Manutenção de Celular seja uma grande oportunidade de Renda Extra ou uma profissão em alta no mercado, com uma tendência enorme de crescimento. (Veja também: reportagem Rede Globo sobre o mercado de manutenção de eletrônicos)</p>
